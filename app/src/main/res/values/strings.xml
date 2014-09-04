@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="AddString">Add</string>
+    <string name="app_name">sampleTodo</string>
+    <string name="addHint">Add a new Item</string>
+
+</resources>
